@@ -24,4 +24,5 @@ auth.json
 !/public/.htaccess
 !/public/typo3conf
 /public/typo3conf/*
-config/system/settings.php
+/config/system/settings.php
+/config/system/additional.php
