@@ -13,6 +13,9 @@ auth.json
 .env
 .env.local
 
+# Tools
+fetch*.*
+
 # TYPO3
 /var/*
 !/var/labels
